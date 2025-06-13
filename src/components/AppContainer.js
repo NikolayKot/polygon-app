@@ -67,7 +67,7 @@ class AppContainer extends HTMLElement {
                 .app-content {
                     flex: 1;
                     display: flex;
-                    height: 94.5%;
+                    height: 93%;
                     flex-direction: column;
                     overflow: hidden;
                 }
